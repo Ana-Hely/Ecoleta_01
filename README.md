@@ -5,6 +5,6 @@ O Ecoleta é um sistema de marketplace de coleta de resíduos que tem como objet
 O sistema possui uma versão Web, responsável pelos cadastros dos estabelecimentos, e uma versão Mobile, responsavel pela divulgação de suas informações como localização, contato, entre outros
 para pessoas interessadas. 
 
-As ferramentas utilzadas para o desenvolvimento foram: ReactJS, ReactNative, TypeScript, NodeJS, SQLite3, IBGE API.
+As ferramentas utilizadas para o desenvolvimento foram: ReactJS, ReactNative, TypeScript, NodeJS, SQLite3, IBGE API.
 
 
